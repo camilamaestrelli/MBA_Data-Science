@@ -1,0 +1,12 @@
+Variável;Tipo;Descrição
+CO_ANO;inteiro;Código de Ano de referência
+CO_MES;;Código de Mês de referência
+CO_NCM;;Código de Nomenclatura Comum do Mercosul
+CO_UNID;;Código de unidade de medida
+CO_PAIS;;Código do país
+SG_UF_NCM;;Sigla do UF
+CO_VIA;;Código da via
+CO_URF;;Código do URF
+QT_ESTAT;;Quantidade estatística
+KG_LIQUIDO;;Quantidade em kg líquido
+VL_FOB;;valor do FOB em dólar
