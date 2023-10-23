@@ -20,3 +20,17 @@ A balança comercial brasileira é fator primordial na economia do país. Entend
 [Dados](https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta)
 
 
+
+
+
+
+OBSERVAÇÕES QUANTO AO PROJETO:
+- 475 tipos de produtos foram importados, enquanto 415 foram exportados
+- Apesar disso, a exportação trouxe mais de $330 bi de doláres noa no de 2022 e a importação resultou em um gasto de aproximdamente $ 270 bi de doláres
+- os produtos manufaturados resultam numa balança comercial negativa para o Brasil
+- A via marítima é a mais explorada no comércio exterior
+- China, EUA e Argentina são os país com maior exportação e importação com o Brasil
+- o 3º maior destino/origem em realação à balança comercial não é um país e sim barcos e aviões
+- Alemanha é o país que resulta numa pior balança balança comercial para o Brasil
+
+
