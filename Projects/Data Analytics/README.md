@@ -2,6 +2,8 @@ Projeto de BI com dados do COMEX
 
 [Arquivo PBIX](https://1drv.ms/u/s!AmOCIYdVhZGmhPZPQtuWhn40VEtXtw?e=FhKGrS)
 
+[link para visualização online](https://app.powerbi.com/view?r=eyJrIjoiZTdmNjU2MTYtZWY2My00ZThlLWJkNmUtNGU1NmY0ZDU3YzQ3IiwidCI6Ijk5N2I2Y2U2LTFlNTktNDJhNC1hNWMwLWNjZDQ0MmMwYmZmNSJ9)
+
 Objetivo: Explorar os dados do COMEX e verificar os países com quem o Brasil realiza mais comércio e os produtos mais exportados e importados
 
 Problema de negócio:
