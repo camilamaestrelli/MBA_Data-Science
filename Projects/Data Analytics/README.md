@@ -6,7 +6,8 @@ Projeto de BI com dados do COMEX
 
 [Dicionário de variáveis](https://github.com/camilamaestrelli/MBA_Data-Science/blob/main/Projects/Data%20Analytics/dicvariaveis_econ_comex.xlsx)
 
-- VÍDEO EM BREVE
+
+[VÍDEO EM BREVE]
 
 
 
